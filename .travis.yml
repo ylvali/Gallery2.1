@@ -4,4 +4,4 @@ php:
     - hhvm
 
 script:
-    - phpunit galleryModule/testGalleryClass.php
+    - phpunit testGalleryClass.php
